@@ -1,0 +1,3 @@
+Name;Code_Owner;Key;Amount
+Savings_Account;011;5630;88000.0
+Salary_Account;011;1005;13880.0
